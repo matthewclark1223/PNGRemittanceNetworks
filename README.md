@@ -1,2 +1,2 @@
 # PNGRemittanceNetworks
-Data and code repository for "Remittance Networks Can Facilitate Small-Scale Natural Resource Commercialization"* title subject to change
+Data and code repository for "Remittance Networks Shape Intensification of Small-Scale Natural Resource Use "* title subject to change
