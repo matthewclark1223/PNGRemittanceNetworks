@@ -5,9 +5,9 @@ Data and code repository for "Remittance Networks Shape Intensification of Small
 
 ## Repository structure
 
-- **final_df.csv**: Final dataset including household characteristics, network metrics, and fishing commercialization indices.
+- **final_df.csv**: Final household-level dataset including household characteristics, network metrics, and fishing commercialization indices.
 
-- **Combine_2018_2026_ Data.R**:Code to clean and combine household data across years
+- **Combine_2018_2026_ Data.R**: Code to clean and combine household data across years *not executable
 
 - **SummarizeNetworkData.R**: Code to construct social networks (financial and fish flows) and compute centrality measures (indegree, outdegree, betweenness, and external ties).
 
