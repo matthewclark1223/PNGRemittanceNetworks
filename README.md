@@ -1,5 +1,5 @@
 # PNGRemittanceNetworks
-Data and code repository for "Remittance Networks Shape Intensification of Small-Scale Natural Resource Use"
+Data and code repository for "Remittance Networks Fuel Commercialization of Subsistence Livelihoods"
 <br>
 (\*title subject to change)
 
