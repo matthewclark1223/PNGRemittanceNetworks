@@ -1,0 +1,217 @@
+SharingUnitID,Year,financial_indegree,financial_outdegree,financial_betweenness,external_lenders_n,external_lenders_prop,fish_indegree,fish_outdegree,fish_betweenness,internal_lenders_n,n_adults,n_children,livelihoods.remittances,livelihoods.activity,MSL2.credit_access,MSL2.expenditure,livelihoods.rank.activity_fishing,livelihoods.rank.activity_gleaning,livelihoods.rank.activity_marketing_mp,livelihoods.rank.activity_salaried_employment,livelihoods.rank.activity_informal_ea,livelihoods.rank.activity_tourism,livelihoods.rank.activity_farming,livelihoods.rank.activity_remittance,livelihoods.rank.activity_other,ageHHH,fishingq.food_consumption,food_insecurity_score,leader,livelihoods.rank.activity_atoll_farming,n_credit_sources,Com_index_commercial_share,Com_index_markets,Com_index_capital,Com_index_gear,pelagic_focus_index
+1,2018,0,1,0,0,0,14,7,943.7831877,0,3,6,often,fishing gleaning marketing_mp farming remittance,friends_family,250,1,3,4,NA,NA,NA,5,2,NA,47,3,4,0,NA,1,0.7,4.333333333,2,1.5,0
+2,2018,1,0,0,0,0,12,17,899.3332844,1,2,4,sometimes,fishing gleaning marketing_mp informal_ea remittance,friends_family,100,1,4,2,NA,3,NA,NA,5,NA,26,2,5,0,NA,1,0.8,2,3,2.5,0.181818182
+3,2018,3,5,203,0,0,4,5,51.63662714,3,9,11,sometimes,fishing gleaning marketing_mp informal_ea remittance,no,300,1,3,3,NA,1,NA,NA,4,NA,53,NA,1,1,NA,0,NA,0,NA,0,NA
+4,2018,0,0,0,0,0,9,10,558.5507218,0,2,3,sometimes,fishing gleaning informal_ea tourism remittance,friends_family,120,1,2,NA,NA,3,2,NA,4,NA,33,2,9,1,NA,1,0.8,3.833333333,5,3.833333333,0.545454545
+5,2018,1,2,19.5,0,0,7,5,192.7336581,1,4,4,often,fishing marketing_mp informal_ea tourism farming remittance other,no,500,1,NA,6,NA,2,5,7,3,4,50,4,3,1,NA,0,0.6,4.333333333,3,3.833333333,0.545454545
+6,2018,1,1,0,0,0,12,13,976.8984231,1,5,4,sometimes,fishing gleaning marketing_mp tourism farming remittance,friends_family,300,1,2,3,NA,NA,4,6,5,NA,39,5,4,1,NA,1,0.5,4,2,2.75,0.24
+7,2018,0,0,0,0,0,11,12,574.0576753,0,3,3,sometimes,fishing gleaning marketing_mp tourism farming remittance,friends_family,150,1,6,4,NA,NA,2,5,3,NA,48,1,4,1,NA,1,0.9,4,2,3.833333333,0.48
+8,2018,0,0,0,0,0,6,9,470.2086896,0,2,3,sometimes,fishing gleaning marketing_mp informal_ea,friends_family,350,1,2,4,NA,2,NA,NA,NA,NA,33,2,4,0,NA,1,0.8,4,2,3.833333333,0.545454545
+9,2018,2,0,0,1,0.5,10,11,255.1835433,1,5,1,sometimes,fishing remittance,no,200,1,NA,NA,NA,NA,NA,NA,2,NA,59,3,5,0,NA,0,0.7,4.333333333,2,4.416666667,0.48
+10,2018,2,1,59,1,0.5,12,12,1177.512553,1,2,2,sometimes,fishing gleaning marketing_mp informal_ea tourism,local_store friends_family,150,1,3,5,NA,2,4,NA,NA,NA,45,NA,4,1,NA,2,NA,0,NA,0,NA
+11,2018,0,0,0,0,0,10,10,649.6323731,0,5,0,sometimes,fishing gleaning marketing_mp tourism remittance,local_store,50,2,5,4,NA,NA,3,NA,1,NA,64,5,6,0,NA,1,0.5,4,3,4.333333333,0.48
+12,2018,2,1,3,1,0.5,7,6,154.8004801,1,2,1,often,fishing tourism,local_store friends_family,40,1,NA,NA,NA,NA,2,NA,NA,NA,68,NA,7,1,NA,2,NA,0,NA,0,NA
+13,2018,0,0,0,0,0,5,6,205.2496815,0,2,2,sometimes,fishing gleaning marketing_mp informal_ea remittance,friends_family,200,1,4,2,NA,3,NA,NA,4,NA,31,4,4,1,NA,1,0.6,4,3,3.333333333,0.24
+14,2018,0,0,0,0,0,7,10,297.9546481,0,4,2,NA,fishing gleaning marketing_mp,friends_family,30,1,2,3,NA,NA,NA,NA,NA,NA,56,3,3,0,NA,1,0.7,4,2,1,0
+15,2018,0,0,0,0,0,3,5,62.84620509,0,2,1,never,fishing gleaning marketing_mp informal_ea remittance,friends_family,50,1,2,3,NA,3,NA,NA,4,NA,35,2,5,0,NA,1,0.8,4,2,4.333333333,0.428571429
+16,2018,1,2,2,0,0,1,1,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,0,NA,0,NA
+17,2018,3,0,0,2,0.666666667,6,7,128.8776376,1,4,1,sometimes,fishing marketing_mp remittance,local_store friends_family,60,1,NA,3,NA,NA,NA,NA,2,NA,58,3,5,1,NA,2,0.7,4,6,3.333333333,0.24
+18,2018,1,0,0,0,0,8,9,204.5749127,1,2,5,sometimes,fishing gleaning informal_ea other,friends_family,70,1,3,NA,NA,2,NA,NA,NA,3,42,3,5,1,NA,1,0.7,4,2,3.833333333,0.214285714
+19,2018,0,0,0,0,0,1,4,17.98929547,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,0,NA,0,NA
+20,2018,4,0,0,0,0,9,10,582.6231764,4,6,6,never,fishing gleaning marketing_mp salaried_employment informal_ea tourism,local_store friends_family,100,1,3,5,2,6,4,NA,NA,NA,47,6,6,1,NA,2,0.4,3.833333333,2,1.5,0
+21,2018,0,0,0,0,0,3,3,27.37814456,0,3,0,often,remittance,no,50,NA,NA,NA,NA,NA,NA,NA,1,NA,62,NA,7,NA,NA,0,NA,0,NA,0,NA
+22,2018,0,0,0,0,0,8,9,293.6038117,0,2,1,sometimes,fishing gleaning marketing_mp informal_ea remittance other,no,300,1,1,4,NA,4,NA,NA,6,1,50,3,4,0,NA,0,0.7,3.5,2,1,0
+23,2018,0,1,0,0,0,8,6,353.8117303,0,2,0,often,fishing gleaning marketing_mp informal_ea remittance,local_store,55,2,3,4,NA,1,NA,NA,5,NA,28,2,6,0,NA,1,0.8,4,2,2.25,0.111111111
+24,2018,2,3,4,0,0,5,5,98.71754112,2,3,0,never,fishing other,no,500,2,NA,NA,NA,NA,NA,NA,NA,1,58,2,2,1,NA,0,0.8,4.333333333,3,1,0
+25,2018,0,0,0,0,0,5,13,166.9697289,0,2,3,never,fishing gleaning marketing_mp informal_ea,no,50,1,2,3,NA,3,NA,NA,NA,NA,37,1,5,0,NA,0,0.9,4,2,3,0.25
+26,2018,0,0,0,0,0,12,18,1421.932484,0,4,0,sometimes,fishing gleaning marketing_mp informal_ea remittance,no,300,1,3,3,NA,5,NA,NA,2,NA,50,4,4,1,NA,0,0.6,4,3,4,0.5
+27,2018,0,0,0,0,0,7,3,140.728127,0,5,0,sometimes,fishing gleaning marketing_mp informal_ea tourism,local_store,100,1,2,5,NA,3,4,NA,NA,NA,66,NA,5,0,NA,1,NA,0,NA,0,NA
+28,2018,0,1,0,0,0,9,9,519.3072892,0,7,0,NA,fishing gleaning marketing_mp informal_ea,no,0,1,3,2,NA,2,NA,NA,NA,NA,64,NA,4,0,NA,0,NA,0,NA,0,NA
+29,2018,0,0,0,0,0,2,5,25.13070091,0,2,0,never,fishing gleaning marketing_mp tourism farming,friends_family,60,1,4,5,NA,NA,2,3,NA,NA,39,1,6,1,NA,1,0.9,4,2,1.5,0
+30,2018,2,0,0,0,0,9,11,411.5196719,2,2,3,sometimes,fishing gleaning marketing_mp informal_ea tourism,friends_family,150,1,2,5,NA,4,3,NA,NA,NA,32,3,5,1,NA,1,0.7,4.333333333,3,3.4,0.145985401
+31,2018,4,1,11,3,0.75,9,13,494.9175285,1,3,1,often,fishing gleaning marketing_mp informal_ea tourism farming,friends_family,100,1,4,6,NA,3,2,5,NA,NA,52,3,4,1,NA,1,0.7,4,2,2.833333333,0.272727273
+32,2018,1,0,0,0,0,4,12,152.9982405,1,2,5,sometimes,fishing gleaning marketing_mp informal_ea farming remittance,no,50,1,4,6,NA,3,NA,5,2,NA,35,2,1,1,NA,0,0.8,4.333333333,0,2.166666667,0
+33,2018,1,0,0,1,1,3,12,148.757555,0,3,5,never,salaried_employment informal_ea farming,local_store friends_family,600,NA,NA,NA,1,3,NA,2,NA,NA,45,NA,3,1,NA,2,NA,0,NA,0,NA
+34,2018,0,1,0,0,0,16,18,1413.218361,0,10,2,sometimes,fishing gleaning salaried_employment tourism remittance,banks_institutions,360,1,3,NA,2,NA,4,NA,5,NA,49,3,4,1,NA,1,0.7,4,6,2.833333333,0.272727273
+35,2018,0,0,0,0,0,8,6,186.8060576,0,2,1,sometimes,fishing gleaning informal_ea tourism farming remittance,friends_family,350,2,3,NA,NA,1,3,4,5,NA,31,2,4,1,NA,1,0.8,3.833333333,2,3.333333333,0.24
+36,2018,2,1,3,1,0.5,14,13,961.560155,1,2,0,sometimes,fishing salaried_employment,local_store friends_family,350,2,NA,NA,1,NA,NA,NA,NA,NA,47,2,5,0,NA,2,0.8,4.333333333,2,3.166666667,0.272727273
+37,2018,4,0,0,2,0.5,4,4,80.16284987,2,3,3,never,fishing gleaning marketing_mp tourism farming,friends_family,50,1,4,5,NA,NA,3,2,NA,NA,54,2,10,1,NA,1,0.8,4.333333333,2,2.5,0.333333333
+38,2018,2,9,61,0,0,7,4,123.4013357,2,2,4,never,fishing informal_ea tourism other,no,300,4,NA,NA,NA,2,3,NA,NA,1,40,3,1,0,NA,0,0.7,3,2,4.733333333,0.437956204
+39,2018,1,0,0,1,1,5,7,60.03455613,0,4,3,sometimes,fishing gleaning marketing_mp informal_ea tourism,friends_family,60,1,2,5,NA,3,4,NA,NA,NA,59,5,5,0,NA,1,0.5,4.333333333,0,1,0
+40,2018,2,2,251,0,0,5,5,196.7748176,2,2,3,never,fishing gleaning marketing_mp salaried_employment informal_ea tourism other,local_store friends_family,200,2,4,6,1,5,3,NA,NA,1,32,2,4,0,NA,2,0.8,4.333333333,3,3.833333333,0.545454545
+41,2018,0,0,0,0,0,4,8,88.31253247,0,3,2,sometimes,fishing gleaning marketing_mp informal_ea remittance,friends_family,120,1,2,3,NA,3,NA,NA,5,NA,30,1,6,0,NA,1,0.9,4.5,2,4.733333333,0.437956204
+42,2018,0,0,0,0,0,5,7,265.8272148,0,2,2,never,fishing gleaning marketing_mp tourism farming remittance,local_store,80,1,5,2,NA,NA,3,4,6,NA,42,3,7,1,NA,1,0.7,4,0,2.166666667,0.136363636
+43,2018,3,0,0,1,0.333333333,8,6,397.0082718,2,5,3,sometimes,fishing gleaning marketing_mp informal_ea tourism,local_store friends_family,50,1,3,5,NA,2,4,NA,NA,NA,80,2,7,0,NA,2,0.8,4.333333333,2,2.333333333,0
+44,2018,3,1,0,1,0.333333333,5,7,385.1438075,2,6,2,sometimes,fishing marketing_mp informal_ea tourism remittance other,friends_family,100,1,NA,5,NA,2,3,NA,4,NA,57,1,3,0,NA,1,0.9,5.5,2,2.833333333,0.272727273
+45,2018,3,0,0,1,0.333333333,7,7,668.2416723,2,2,0,sometimes,fishing gleaning marketing_mp informal_ea tourism,local_store friends_family,50,1,4,5,NA,3,2,NA,NA,NA,68,NA,2,1,NA,2,NA,0,NA,0,NA
+46,2018,1,0,0,1,1,5,4,86.8807022,0,4,1,never,fishing gleaning marketing_mp informal_ea tourism,friends_family,200,1,3,3,NA,3,2,NA,NA,NA,49,5,7,0,NA,1,0.5,4.333333333,6,3.833333333,0.545454545
+47,2018,3,2,141,0,0,12,1,34.63302808,3,1,2,often,informal_ea tourism other,local_store friends_family,200,NA,NA,NA,NA,2,1,NA,NA,3,43,NA,9,1,NA,2,NA,0,NA,0,NA
+48,2018,2,0,0,1,0.5,7,5,185.149417,1,2,5,often,fishing remittance,local_store friends_family,250,2,NA,NA,NA,NA,NA,NA,1,NA,42,NA,3,1,NA,2,NA,0,NA,0,NA
+49,2018,0,0,0,0,0,11,9,673.6506224,0,2,1,sometimes,fishing gleaning marketing_mp informal_ea tourism farming remittance,no,100,2,4,3,NA,1,7,6,5,NA,54,1,3,1,NA,0,0.9,5,2,2,0.181818182
+50,2018,3,1,10,1,0.333333333,9,10,459.6762724,2,2,2,sometimes,fishing gleaning informal_ea tourism farming remittance,local_store friends_family,150,1,4,NA,NA,3,4,2,5,NA,30,2,3,0,NA,2,0.8,4,3,4.333333333,0.48
+51,2018,1,0,0,1,1,9,6,513.9739234,0,2,0,sometimes,fishing tourism remittance other,local_store friends_family,100,1,NA,NA,NA,NA,2,NA,NA,4,49,2,1,1,NA,2,0.8,5,2,3.166666667,0.272727273
+52,2018,2,1,50,1,0.5,4,6,12.72187224,1,2,5,sometimes,fishing gleaning informal_ea tourism farming,friends_family,80,1,2,NA,NA,4,2,3,NA,NA,NA,5,7,0,NA,1,0.5,3.5,2,3,0.16
+53,2018,0,0,0,0,0,8,11,355.3404661,0,6,1,sometimes,fishing gleaning marketing_mp informal_ea remittance,friends_family,120,1,1,3,NA,3,NA,NA,5,NA,52,1,4,1,NA,1,0.9,4,3,3.833333333,0.545454545
+54,2018,0,0,0,0,0,2,10,187.2128493,0,2,2,sometimes,fishing marketing_mp informal_ea,local_store,0,1,NA,2,NA,3,NA,NA,NA,NA,31,2,3,1,NA,1,0.8,4.333333333,6,1.5,0
+55,2018,3,0,0,0,0,13,19,1326.502228,3,5,1,sometimes,fishing marketing_mp salaried_employment informal_ea tourism farming remittance other,friends_family,500,2,NA,5,1,3,6,7,4,1,43,5,4,1,NA,1,0.5,3,3,3.333333333,0.24
+56,2018,0,0,0,0,0,6,9,281.7853998,0,2,5,NA,fishing gleaning tourism,friends_family,50,1,2,NA,NA,NA,3,NA,NA,NA,32,3,5,0,NA,1,0.7,5,2,2.5,0.181818182
+57,2018,0,1,0,0,0,8,16,884.3488119,0,4,0,often,fishing marketing_mp tourism remittance,friends_family,100,1,NA,3,NA,NA,2,NA,4,NA,40,3,1,0,NA,1,0.7,4,2,2.833333333,0.272727273
+58,2018,1,0,0,1,1,11,10,612.1497809,0,2,5,sometimes,fishing marketing_mp farming other,local_store friends_family,100,1,NA,4,NA,NA,NA,3,NA,2,49,3,5,1,NA,2,0.7,4.333333333,2,2.5,0.333333333
+59,2018,0,1,0,0,0,7,5,200.7615586,0,3,4,never,fishing marketing_mp salaried_employment informal_ea tourism,local_store,150,1,NA,5,2,3,4,NA,NA,NA,44,1,3,1,NA,1,0.9,4.333333333,6,2.5,0.181818182
+60,2018,0,0,0,0,0,3,6,93.65936118,0,2,1,sometimes,fishing gleaning marketing_mp informal_ea remittance,friends_family,550,1,2,4,NA,3,NA,NA,5,NA,43,4,3,0,NA,1,0.6,4,2,3,0.25
+61,2018,2,3,52,2,1,5,6,276.2017811,0,4,2,sometimes,fishing gleaning tourism remittance,friends_family,50,1,2,NA,NA,NA,2,NA,3,NA,48,4,5,0,NA,1,0.6,4.333333333,2,3.5,0.666666667
+62,2018,0,0,0,0,0,5,3,76.59700635,0,2,0,never,fishing gleaning marketing_mp informal_ea tourism farming,friends_family,80,6,5,2,NA,1,4,3,NA,NA,66,NA,5,1,NA,1,NA,0,NA,0,NA
+63,2018,1,0,0,0,0,8,11,546.4182387,1,2,4,sometimes,fishing gleaning marketing_mp salaried_employment informal_ea remittance other,friends_family,500,1,2,3,3,3,NA,NA,6,NA,32,3,4,0,NA,1,0.7,4,2,3.333333333,0.153846154
+64,2018,0,0,0,0,0,3,13,177.5410413,0,2,1,sometimes,fishing marketing_mp informal_ea tourism farming remittance,local_store,150,1,NA,2,NA,4,3,5,6,NA,41,3,8,1,NA,1,0.7,4.333333333,2,2.5,0.333333333
+65,2018,0,0,0,0,0,7,18,476.1130808,0,2,2,sometimes,fishing gleaning informal_ea tourism farming remittance,local_store,50,1,2,NA,NA,5,2,4,6,NA,54,1,3,1,NA,1,0.9,4.333333333,2,4.416666667,0.48
+66,2018,2,4,194,0,0,8,12,451.7211915,2,4,2,sometimes,fishing gleaning marketing_mp informal_ea tourism farming remittance,friends_family,150,2,3,4,NA,1,5,6,7,NA,48,2,3,0,NA,1,0.8,4,3,3.416666667,0.24
+67,2018,3,0,0,2,0.666666667,7,6,380.6577924,1,4,3,never,fishing gleaning marketing_mp tourism other,friends_family,50,1,4,5,NA,NA,3,NA,NA,2,59,2,3,0,NA,1,0.8,4,2,1.5,0
+68,2018,1,1,6,0,0,0,1,0,1,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,NA,0,NA,NA,1,NA,0,NA,0,NA
+69,2018,4,0,0,2,0.5,7,5,144.7669256,2,3,1,sometimes,fishing gleaning marketing_mp informal_ea tourism,local_store friends_family,75,1,3,5,NA,2,4,NA,NA,NA,63,2,4,0,NA,2,0.8,5,2,2.916666667,0.12
+70,2018,3,3,163,0,0,16,18,2374.647231,3,6,2,sometimes,fishing gleaning marketing_mp salaried_employment tourism farming remittance,friends_family,500,1,3,5,4,NA,6,2,7,NA,52,NA,1,0,NA,1,NA,0,NA,0,NA
+71,2018,1,0,0,0,0,6,1,17.92578436,1,2,1,NA,fishing gleaning marketing_mp informal_ea other,local_store,50,3,3,2,NA,1,NA,NA,NA,5,64,5,0,1,NA,1,0.5,5,2,1.5,0
+72,2018,1,2,9,0,0,11,8,455.5437952,1,3,3,sometimes,gleaning informal_ea tourism remittance other,local_store friends_family,700,NA,2,NA,NA,4,2,NA,3,1,42,NA,1,1,NA,2,NA,0,NA,0,NA
+73,2018,2,0,0,2,1,5,7,33.21919839,0,3,1,sometimes,fishing gleaning marketing_mp informal_ea tourism,local_store friends_family,60,1,4,5,NA,2,3,NA,NA,NA,52,2,5,1,NA,2,0.8,6,2,2.5,0.333333333
+74,2018,2,1,6,1,0.5,4,12,271.6999935,1,1,0,sometimes,fishing,friends_family,150,1,NA,NA,NA,NA,NA,NA,NA,NA,38,3,11,0,NA,1,0.7,5.333333333,2,4.333333333,0.545454545
+75,2018,3,3,84,0,0,12,13,1277.126124,3,5,0,often,fishing remittance,friends_family,200,1,NA,NA,NA,NA,NA,NA,2,NA,65,3,4,1,NA,1,0.7,4,3,2.5,0.333333333
+76,2018,0,0,0,0,0,6,9,286.712673,0,2,3,never,fishing gleaning informal_ea tourism,local_store,30,1,3,NA,NA,3,3,NA,NA,NA,37,5,4,1,NA,1,0.5,4.333333333,2,3.166666667,0.272727273
+77,2018,2,3,25,1,0.5,6,3,134.2459061,1,3,1,never,fishing marketing_mp tourism,friends_family,120,1,NA,2,NA,NA,3,NA,NA,NA,43,3,7,0,NA,1,0.7,5,2,2.5,0.333333333
+78,2018,0,0,0,0,0,8,6,289.3350066,0,4,2,sometimes,fishing gleaning marketing_mp informal_ea tourism,no,50,1,4,2,NA,5,3,NA,NA,NA,24,NA,2,0,NA,0,NA,0,NA,0,NA
+79,2018,4,2,171,0,0,9,7,314.8663814,4,2,0,often,fishing gleaning salaried_employment informal_ea remittance other,no,1000,1,1,NA,3,3,NA,NA,5,5,56,1,4,1,NA,0,0.9,1.5,2,1.5,0
+80,2018,1,1,4,0,0,11,4,104.3069702,1,4,0,never,fishing gleaning informal_ea tourism,local_store,70,3,1,NA,NA,2,1,NA,NA,NA,63,1,8,1,NA,1,0.9,4.333333333,0,1,0
+81,2018,0,0,0,0,0,8,8,392.0257304,0,1,1,never,fishing gleaning marketing_mp informal_ea remittance,no,250,2,3,3,NA,1,NA,NA,5,NA,NA,5,3,0,NA,0,0.5,3.5,2,2.5,0.181818182
+82,2018,1,0,0,0,0,7,11,239.8623506,1,2,5,sometimes,fishing informal_ea remittance,no,200,1,NA,NA,NA,2,NA,NA,3,NA,30,3,0,0,NA,0,0.7,4.333333333,3,2.833333333,0.272727273
+83,2018,0,0,0,0,0,12,10,796.2822111,0,2,3,sometimes,fishing gleaning marketing_mp tourism remittance other,no,300,1,1,3,NA,NA,3,NA,5,3,50,0,7,0,NA,0,1,3.5,2,2.833333333,0.272727273
+84,2018,1,0,0,1,1,8,1,0,0,3,3,never,salaried_employment informal_ea tourism,group_cooperative friends_family,200,NA,NA,NA,1,2,3,NA,NA,NA,46,NA,2,1,NA,2,NA,0,NA,0,NA
+85,2018,2,0,0,0,0,11,3,518.4957214,2,3,0,often,fishing remittance,local_store,250,2,NA,NA,NA,NA,NA,NA,1,NA,73,NA,3,0,NA,1,NA,0,NA,0,NA
+86,2018,0,0,0,0,0,4,13,250.9946594,0,6,2,NA,fishing gleaning marketing_mp informal_ea other,no,400,2,4,1,NA,2,NA,NA,NA,4,64,NA,3,0,NA,0,NA,0,NA,0,NA
+87,2018,4,0,0,2,0.5,8,8,744.6333703,2,2,3,sometimes,fishing gleaning marketing_mp tourism,friends_family,70,1,3,4,NA,NA,2,NA,NA,NA,43,5,5,1,NA,1,0.5,4.333333333,5,2,0
+88,2018,0,0,0,0,0,4,3,140.129889,0,3,1,often,fishing gleaning marketing_mp informal_ea remittance,local_store,50,1,2,5,NA,3,NA,NA,3,NA,42,2,9,0,NA,1,0.8,4,2,4.333333333,0.428571429
+89,2018,0,0,0,0,0,3,5,73.47223833,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,NA,0,1,NA,1,NA,0,NA,0,NA
+90,2018,0,1,0,0,0,8,9,653.6775427,0,2,1,sometimes,fishing gleaning informal_ea tourism farming other,no,200,1,4,NA,NA,3,6,5,NA,2,58,NA,2,1,NA,0,NA,0,NA,0,NA
+91,2018,1,3,3,0,0,5,9,209.8114512,1,2,3,never,fishing gleaning marketing_mp informal_ea tourism,local_store friends_family,250,1,4,5,NA,2,3,NA,NA,NA,30,2,7,1,NA,2,0.8,4,6,3,0.16
+92,2018,4,4,176,2,0.5,6,4,112.857589,2,1,2,sometimes,fishing gleaning marketing_mp informal_ea tourism,local_store friends_family,100,2,3,5,NA,1,4,NA,NA,NA,NA,6,5,NA,NA,2,0.4,4.333333333,0,0.833333333,0
+93,2018,1,1,0,0,0,4,8,163.8000525,1,2,2,never,fishing marketing_mp salaried_employment tourism,friends_family,500,2,NA,3,1,NA,4,NA,NA,NA,31,2,1,0,NA,1,0.8,4,2,2.833333333,0.272727273
+94,2018,0,0,0,0,0,4,12,390.1449028,0,2,2,sometimes,fishing gleaning marketing_mp informal_ea farming remittance,no,250,1,5,4,NA,3,NA,6,2,NA,47,1,2,0,NA,0,0.9,4,3,3.833333333,0.48
+95,2018,3,0,0,2,0.666666667,4,4,145.6933089,1,2,3,often,fishing gleaning salaried_employment tourism remittance other,banks_institutions friends_family,600,2,3,NA,1,NA,3,NA,4,5,34,1,8,0,NA,2,0.9,4,3,3.666666667,0.24
+96,2018,0,0,0,0,0,0,10,0,0,1,0,sometimes,informal_ea remittance,no,60,NA,NA,NA,NA,1,NA,NA,2,NA,65,NA,9,0,NA,0,NA,0,NA,0,NA
+97,2018,1,0,0,1,1,5,3,58.61325777,0,3,6,sometimes,fishing gleaning marketing_mp informal_ea tourism,local_store friends_family,100,1,2,5,NA,4,3,NA,NA,NA,56,6,7,0,NA,2,0.4,5,0,1,0
+98,2018,1,1,0,0,0,5,7,305.5511845,1,4,4,never,fishing gleaning marketing_mp informal_ea tourism,local_store friends_family,30,1,4,5,NA,2,3,NA,NA,NA,80,2,7,0,NA,2,0.8,3.833333333,3,2.5,0.181818182
+99,2018,0,0,0,0,0,6,2,144.8293124,0,4,3,often,fishing gleaning marketing_mp informal_ea remittance,no,100,1,2,4,NA,2,NA,NA,5,NA,76,3,5,1,NA,0,0.7,3.5,2,1,0
+100,2018,0,2,0,0,0,5,5,185.3578651,0,3,1,never,fishing gleaning informal_ea tourism,local_store,50,4,3,NA,NA,2,1,NA,NA,NA,58,2,7,0,NA,1,0.8,3.5,0,0.833333333,0
+101,2018,2,0,0,1,0.5,7,3,228.8404924,1,2,3,often,fishing gleaning marketing_mp informal_ea tourism remittance,friends_family,200,4,5,6,NA,2,3,NA,1,NA,27,2,4,0,NA,1,0.8,2,0,1,0
+102,2018,6,1,20,5,0.833333333,8,4,209.6486856,1,2,0,sometimes,fishing informal_ea remittance other,friends_family,20,1,NA,NA,NA,3,NA,NA,2,4,66,2,5,1,NA,1,0.8,4,2,2.5,0.333333333
+103,2018,0,0,0,0,0,10,0,0,0,1,0,sometimes,informal_ea remittance,no,50,NA,NA,NA,NA,1,NA,NA,2,NA,60,NA,4,1,NA,0,NA,0,NA,0,NA
+104,2018,0,3,0,0,0,6,0,0,0,3,4,often,remittance,local_store,250,NA,NA,NA,NA,NA,NA,NA,1,NA,47,NA,0,0,NA,1,NA,0,NA,0,NA
+105,2018,0,0,0,0,0,3,0,0,0,2,1,never,fishing gleaning marketing_mp salaried_employment informal_ea,local_store,500,3,3,5,1,2,NA,NA,NA,NA,24,3,6,0,NA,1,0.7,5,2,1.5,0
+106,2018,0,0,0,0,0,4,0,0,0,3,6,often,informal_ea remittance,no,15,NA,NA,NA,NA,2,NA,NA,1,NA,58,NA,8,0,NA,0,NA,0,NA,0,NA
+107,2018,1,0,0,0,0,4,0,0,1,1,1,often,informal_ea farming remittance,local_store,200,NA,NA,NA,NA,1,NA,3,2,NA,48,NA,2,1,NA,1,NA,0,NA,0,NA
+108,2018,0,0,0,0,0,2,0,0,0,2,0,sometimes,informal_ea remittance other,no,500,NA,NA,NA,NA,1,NA,NA,3,2,72,NA,0,0,NA,0,NA,0,NA,0,NA
+109,2026,1,3,13,0,0,11,15,1664.132255,1,6,0,sometimes,fishing marketing_mp tourism informal_ea remittance,friends_family,450,1,NA,2,NA,2,3,NA,4,NA,51,1,2,1,NA,1,0.9,3.5,3,2.6,0.102564103
+110,2026,5,3,98,0,0,9,8,864.3861245,5,3,2,sometimes,tourism informal_ea fishing remittance,friends_family,200,2,NA,NA,NA,1,3,NA,4,NA,59,2,3,1,NA,1,0.8,3.5,1,1.833333333,0
+111,2026,0,0,0,0,0,8,6,417.1212746,0,7,0,never,fishing gleaning marketing_mp tourism farming,no,0,1,3,2,NA,NA,4,5,NA,NA,72,1,4,0,NA,0,0.9,3.5,0,2.5,0.090909091
+112,2026,0,0,0,0,0,4,6,238.3615883,0,2,4,never,informal_ea fishing gleaning tourism,no,130,1,3,NA,NA,2,4,NA,NA,NA,36,3,3,0,NA,0,0.7,4.166666667,2,2.85,0.087591241
+113,2026,5,2,307,0,0,4,6,554.55184,5,4,3,sometimes,fishing other gleaning marketing_mp informal_ea tourism farming remittance,friends_family,250,1,NA,1,NA,5,2,6,3,4,50,2,6,1,NA,1,0.8,3,3,0,NA
+114,2026,4,2,70,0,0,9,21,1629.898878,4,5,6,sometimes,fishing gleaning informal_ea tourism remittance,friends_family,120,1,1,NA,NA,2,3,NA,4,NA,64,2,0,0,NA,1,0.8,4.333333333,2,2.25,0.12
+115,2026,1,0,0,0,0,7,5,476.7723651,1,4,5,sometimes,fishing gleaning tourism informal_ea remittance,no,150,1,3,NA,NA,4,2,NA,5,NA,32,3,3,0,NA,0,0.7,4.166666667,3,1.5,0
+116,2026,1,3,64,0,0,13,19,2893.961339,1,4,2,often,fishing marketing_mp informal_ea remittance,no,600,1,NA,2,NA,4,NA,NA,3,NA,58,3,3,1,NA,0,0.7,6.416666667,6,1.833333333,0.6
+117,2026,10,2,60,7,0.7,15,20,3922.448319,3,5,1,often,fishing remittance informal_ea marketing_mp atoll_farming,friends_family local_store,200,1,NA,2,NA,4,NA,NA,3,NA,36,2,4,0,5,2,0.8,5.916666667,6,4.166666667,0.444444444
+118,2026,4,1,0,2,0.5,0,17,0,2,6,4,sometimes,fishing marketing_mp remittance informal_ea,local_store friends_family,500,1,NA,2,NA,3,NA,NA,4,NA,72,2,5,0,NA,2,0.8,5.583333333,6,3.5,0.666666667
+119,2026,1,0,0,0,0,5,5,507.7855964,1,4,3,sometimes,fishing marketing_mp informal_ea tourism farming remittance,no,100,1,NA,2,NA,3,5,4,6,NA,56,5,3,1,NA,0,0.5,3.166666667,3,2.833333333,0.068965517
+120,2026,1,2,2,0,0,11,10,1206.007983,1,4,2,sometimes,remittance fishing informal_ea marketing_mp tourism farming gleaning salaried_employment,banks_institutions friends_family,500,1,4,1,NA,2,3,6,5,NA,39,2,5,0,NA,2,0.8,3.5,3,2.5,0.181818182
+121,2026,4,0,0,1,0.25,6,8,764.6009269,3,9,4,sometimes,fishing salaried_employment tourism gleaning marketing_mp remittance,banks_institutions friends_family,300,2,3,1,1,NA,3,NA,4,NA,57,1,4,1,NA,2,0.9,4.333333333,3,2.25,0.186915888
+122,2026,4,2,31,1,0.25,8,10,909.254517,3,3,0,often,fishing remittance,friends_family banks_institutions,200,2,NA,NA,NA,NA,NA,NA,1,NA,73,7,2,1,NA,2,0.3,3.5,2,2.5,0.333333333
+123,2026,2,0,0,1,0.5,3,7,265.3064066,1,2,4,often,fishing marketing_mp tourism salaried_employment,friends_family,50,1,NA,3,2,NA,NA,NA,NA,NA,NA,1,6,0,NA,1,0.9,3.5,2,3,0.181818182
+124,2026,4,10,363,3,0.75,11,15,1608.480225,1,2,4,never,tourism informal_ea fishing salaried_employment,no,150,1,NA,NA,2,4,3,NA,NA,NA,45,2,6,1,NA,0,0.8,4,2,3.166666667,0.272727273
+125,2026,1,2,29,0,0,8,11,458.5583086,1,3,1,sometimes,fishing tourism remittance gleaning,no,50,1,4,NA,NA,NA,2,NA,3,NA,62,2,3,1,NA,0,0.8,3.5,3,3.5,0.545454545
+126,2026,0,0,0,0,0,5,5,235.7682949,0,3,5,sometimes,fishing gleaning tourism informal_ea remittance,no,100,1,1,NA,NA,2,3,NA,4,NA,40,3,4,0,NA,0,0.7,3,2,3.833333333,0.48
+127,2026,1,0,0,1,1,6,8,403.4346284,0,4,4,sometimes,fishing gleaning marketing_mp informal_ea tourism farming remittance,group_cooperative friends_family,100,1,4,3,NA,2,4,6,5,NA,38,1,4,0,NA,2,0.9,4.333333333,3,2.5,0.163934426
+128,2026,4,3,196,0,0,6,8,649.7552198,4,6,2,sometimes,salaried_employment,group_cooperative banks_institutions friends_family,300,NA,NA,NA,1,NA,NA,NA,NA,NA,53,NA,0,1,NA,3,NA,0,NA,0,NA
+129,2026,0,0,0,0,0,4,6,597.4353312,0,2,1,sometimes,fishing marketing_mp remittance other,local_store friends_family group_cooperative,250,1,NA,2,NA,NA,NA,NA,4,3,58,2,9,0,NA,3,0.8,4.333333333,2,2.5,0.285714286
+130,2026,3,6,297.5,0,0,8,7,598.1845913,3,2,0,often,informal_ea fishing remittance gleaning,friends_family,50,2,3,NA,NA,1,NA,NA,4,NA,64,3,2,1,NA,1,0.7,2,3,1.5,0
+131,2026,1,0,0,0,0,3,11,326.5334917,1,4,0,sometimes,fishing gleaning informal_ea tourism farming remittance,friends_family,300,1,1,NA,NA,2,3,4,5,NA,55,1,0,0,NA,1,0.9,4.166666667,3,3.833333333,0.48
+132,2026,2,3,5,0,0,5,10,524.3215337,2,9,4,often,fishing gleaning tourism remittance,friends_family,560,1,2,NA,NA,NA,3,NA,4,NA,60,2,0,1,NA,1,0.8,3.5,3,2.5,0.181818182
+133,2026,0,1,0,0,0,15,9,1312.472673,0,3,0,often,informal_ea remittance,no,300,NA,NA,NA,NA,1,NA,NA,2,NA,73,NA,0,0,NA,0,NA,0,NA,0,NA
+134,2026,0,2,0,0,0,1,4,36.02337823,0,4,0,sometimes,fishing marketing_mp gleaning atoll_farming,no,100,1,2,3,NA,NA,NA,NA,NA,NA,33,3,2,1,4,0,0.7,3,3,2,0
+135,2026,2,1,25,1,0.5,1,4,79.19971242,1,3,1,sometimes,fishing tourism atoll_farming informal_ea remittance marketing_mp,friends_family,50,1,NA,2,NA,2,4,NA,3,NA,50,1,7,1,5,1,0.9,4.166666667,3,2.833333333,0.245901639
+136,2026,0,0,0,0,0,6,10,605.8666714,0,1,0,sometimes,fishing informal_ea remittance,no,30,1,NA,NA,NA,2,NA,NA,3,NA,70,1,1,NA,NA,0,0.9,3.5,0,0,NA
+137,2026,0,1,0,0,0,5,5,566.2510083,0,3,4,sometimes,fishing gleaning marketing_mp informal_ea tourism farming remittance,no,70,1,3,5,NA,2,4,6,NA,NA,55,2,7,0,NA,0,0.8,4.333333333,3,3.416666667,0.218978102
+138,2026,0,0,0,0,0,8,8,787.8758094,0,5,2,sometimes,fishing marketing_mp other remittance,no,40,1,NA,2,NA,NA,NA,NA,4,3,60,1,4,1,NA,0,0.9,4.333333333,3,2.5,0.333333333
+139,2026,2,0,0,1,0.5,4,12,792.2301306,1,2,6,sometimes,fishing gleaning marketing_mp tourism farming,friends_family,650,1,4,3,NA,NA,2,5,NA,NA,41,1,8,1,NA,1,0.9,5.916666667,3,3.233333333,0.227272727
+140,2026,0,0,0,0,0,3,4,134.3775371,0,3,1,sometimes,fishing informal_ea marketing_mp tourism gleaning remittance,local_store,40,1,5,2,NA,3,4,NA,6,NA,51,2,6,0,NA,1,0.8,4.333333333,1,1.75,0.128205128
+141,2026,0,2,0,0,0,8,6,475.4367825,0,3,0,never,tourism fishing gleaning marketing_mp farming,no,55,1,5,3,NA,NA,2,4,NA,NA,66,1,13,0,NA,0,0.9,0,0,0,NA
+142,2026,2,0,0,0,0,4,10,599.8119625,2,3,5,sometimes,fishing gleaning tourism informal_ea remittance marketing_mp,no,100,1,2,3,NA,4,5,NA,6,NA,38,7,12,1,NA,0,0.3,3.833333333,3,2.1,0.098360656
+143,2026,1,1,7,0,0,2,4,7.039368964,1,2,2,sometimes,fishing farming remittance tourism,local_store friends_family,250,1,NA,NA,NA,NA,3,2,4,NA,38,2,2,0,NA,2,0.8,3.5,2,3.166666667,0.272727273
+144,2026,3,3,71,1,0.333333333,2,4,44.30076856,2,1,0,often,fishing informal_ea,friends_family,150,2,NA,NA,NA,1,NA,NA,NA,NA,57,5,1,1,NA,1,0.5,3.5,2,3.166666667,0.272727273
+145,2026,1,1,28,0,0,2,2,72.58180969,1,4,3,sometimes,fishing marketing_mp informal_ea salaried_employment tourism remittance farming,no,50,1,NA,2,5,4,6,7,3,NA,48,2,5,0,NA,0,0.8,4.333333333,3,3.833333333,0.115226337
+146,2026,0,0,0,0,0,5,5,189.6082725,0,7,3,often,fishing gleaning marketing_mp informal_ea tourism atoll_farming remittance,friends_family local_store,30,1,6,2,NA,4,5,NA,3,NA,72,3,11,0,7,2,0.7,4.333333333,3,2.25,0.12
+147,2026,2,3,74,0,0,5,8,471.5048847,2,6,1,sometimes,fishing gleaning informal_ea tourism remittance,friends_family,200,4,3,NA,NA,2,1,NA,5,NA,65,5,1,0,NA,1,0.5,3,1,1.5,0
+148,2026,0,1,0,0,0,1,6,323.8262037,0,2,1,sometimes,fishing gleaning informal_ea tourism remittance,no,50,1,2,NA,NA,3,4,NA,5,NA,43,1,4,0,NA,0,0.9,4.166666667,2,3.5,0.176470588
+149,2026,3,1,0,0,0,8,5,481.7090314,3,7,1,sometimes,tourism fishing marketing_mp informal_ea remittance,friends_family local_store,25,1,NA,2,NA,3,4,NA,5,NA,25,1,9,NA,NA,2,0.9,3.833333333,0,1.583333333,0.06
+150,2026,1,0,0,1,1,13,14,1732.058367,0,5,1,sometimes,fishing informal_ea remittance,friends_family,50,1,NA,NA,NA,2,NA,NA,3,NA,74,2,3,0,NA,1,0.8,3.166666667,0,1.833333333,0.090909091
+151,2026,6,4,171.5,2,0.333333333,14,17,2628.767256,4,2,0,sometimes,fishing tourism,friends_family,500,2,NA,NA,NA,NA,1,NA,NA,NA,55,1,6,0,NA,1,0.9,3.5,3,3.166666667,0.272727273
+152,2026,3,0,0,0,0,6,4,84.15173037,3,4,3,sometimes,informal_ea fishing tourism marketing_mp gleaning remittance atoll_farming other,local_store friends_family,50,2,4,3,NA,6,5,NA,7,1,52,2,8,1,6,2,0.8,4.333333333,0,1.583333333,0.06
+153,2026,2,0,0,0,0,11,4,382.9127903,2,3,0,sometimes,tourism remittance farming fishing marketing_mp,no,50,1,NA,2,NA,NA,5,4,3,NA,66,0,2,1,NA,0,1,3.5,3,2.5,0.181818182
+154,2026,0,0,0,0,0,3,4,138.3916756,0,3,4,sometimes,fishing marketing_mp informal_ea remittance farming,no,150,1,NA,2,NA,4,NA,5,3,NA,43,2,3,1,NA,0,0.8,3.166666667,3,3,0.16
+155,2026,3,2,70,1,0.333333333,8,7,662.5132537,2,3,3,sometimes,fishing gleaning tourism informal_ea remittance,friends_family,100,1,2,NA,NA,3,4,NA,5,NA,40,1,4,0,NA,1,0.9,4.166666667,3,2.25,0.12
+156,2026,4,1,338,0,0,7,11,866.282408,4,2,2,sometimes,fishing marketing_mp salaried_employment remittance informal_ea,no,100,1,NA,2,3,5,NA,NA,4,NA,51,2,7,1,NA,0,0.8,4.166666667,3,2.6,0.094488189
+157,2026,2,0,0,0,0,9,6,521.4942217,2,4,5,sometimes,fishing marketing_mp gleaning tourism remittance,local_store friends_family,50,1,3,2,NA,NA,4,NA,5,NA,47,3,4,NA,NA,2,0.7,3.166666667,3,2.5,0.163934426
+158,2026,5,0,0,3,0.6,3,9,392.5855582,2,4,0,sometimes,fishing gleaning marketing_mp remittance farming tourism,friends_family,200,1,5,6,NA,NA,3,4,2,NA,53,2,3,1,NA,1,0.8,4.333333333,2,2.5,0.16
+159,2026,1,1,63,0,0,6,8,829.1412333,1,2,2,never,fishing gleaning remittance tourism farming,no,100,1,2,NA,NA,NA,3,4,5,NA,46,2,5,0,NA,0,0.8,4.166666667,2,2.083333333,0.12
+160,2026,2,3,40,1,0.5,5,5,362.7268217,1,4,2,sometimes,fishing tourism informal_ea marketing_mp gleaning remittance,friends_family,55,2,5,4,NA,1,6,NA,3,NA,56,5,6,0,NA,1,0.5,3.5,0,1.833333333,0.12
+161,2026,2,2,57,1,0.5,3,4,163.8104695,1,3,3,sometimes,fishing tourism gleaning farming remittance,friends_family,50,1,1,NA,NA,NA,3,2,4,NA,NA,3,5,NA,NA,1,0.7,3,3,1.5,0
+162,2026,3,2,2,1,0.333333333,4,7,168.0969892,2,5,1,often,fishing marketing_mp informal_ea tourism remittance,friends_family,600,1,NA,2,NA,3,5,NA,4,NA,66,4,5,1,NA,1,0.6,4.333333333,3,2.833333333,0.272727273
+163,2026,3,2,42,2,0.666666667,6,5,554.4182968,1,2,5,never,fishing other gleaning informal_ea tourism,friends_family,200,3,4,NA,NA,1,5,NA,NA,2,42,2,8,0,NA,1,0.8,3,2,4.916666667,0.324324324
+164,2026,1,0,0,0,0,4,6,211.6500141,1,2,0,sometimes,fishing marketing_mp tourism remittance atoll_farming gleaning other,local_store,200,1,3,6,NA,NA,2,NA,5,7,47,2,4,1,4,1,0.8,5,0,1.5,0.166666667
+165,2026,2,1,25,1,0.5,4,5,261.8414913,1,2,1,sometimes,informal_ea fishing gleaning marketing_mp tourism atoll_farming remittance,local_store friends_family,25,1,5,4,NA,6,2,NA,7,NA,57,2,6,NA,3,2,0.8,3.5,0,1.75,0.128205128
+166,2026,2,1,57,0,0,4,2,340.0494589,2,6,0,often,tourism remittance,friends_family,300,NA,NA,NA,NA,NA,2,NA,1,NA,55,NA,3,0,NA,1,NA,0,NA,0,NA
+167,2026,3,1,7,0,0,7,7,389.9262055,3,3,3,sometimes,fishing gleaning tourism remittance,friends_family,20,1,2,NA,NA,NA,3,NA,4,NA,67,1,8,0,NA,1,0.9,3.5,0,0.5,0
+168,2026,0,0,0,0,0,4,5,269.6182394,0,2,4,sometimes,fishing farming marketing_mp informal_ea tourism remittance gleaning,no,60,1,4,2,NA,3,4,4,5,NA,34,1,3,0,NA,0,0.9,4.333333333,3,3.166666667,0.227272727
+169,2026,0,0,0,0,0,4,6,135.5019406,0,2,2,sometimes,fishing tourism gleaning,friends_family,250,1,3,NA,NA,NA,2,NA,NA,NA,NA,2,4,0,NA,1,0.8,3.833333333,2,0,NA
+170,2026,1,0,0,0,0,6,6,306.0811711,1,2,3,sometimes,fishing informal_ea remittance marketing_mp,no,60,1,NA,2,NA,3,NA,NA,4,NA,39,2,7,1,NA,0,0.8,5,3,4,0.5
+171,2026,2,0,0,0,0,4,5,266.4805219,2,2,3,sometimes,fishing marketing_mp informal_ea tourism remittance gleaning,no,145,1,5,2,NA,3,6,NA,4,NA,41,2,4,0,NA,0,0.8,4.166666667,3,2.5,0.078740157
+172,2026,5,4,12,4,0.8,12,13,1385.793807,1,6,5,sometimes,fishing informal_ea tourism remittance,friends_family,500,2,NA,NA,NA,1,3,NA,4,NA,61,4,0,1,NA,1,0.6,3,3,0.5,0
+173,2026,3,0,0,0,0,7,5,279.4919753,3,2,3,sometimes,fishing informal_ea atoll_farming gleaning tourism remittance,friends_family,150,1,4,NA,NA,3,2,NA,6,NA,40,5,4,0,5,1,0.5,4.333333333,2,3.75,0.512820513
+174,2026,0,0,0,0,0,11,4,305.9480548,0,5,1,often,informal_ea tourism salaried_employment fishing gleaning,friends_family,150,4,5,NA,1,2,3,NA,NA,NA,54,3,0,1,NA,1,0.7,3,3,1,0
+175,2026,0,0,0,0,0,8,5,607.7380495,0,2,2,sometimes,fishing gleaning tourism informal_ea remittance,no,50,1,1,NA,NA,2,3,NA,4,NA,39,3,4,1,NA,0,0.7,3,3,2.25,0.12
+176,2026,0,0,0,0,0,5,3,162.2474806,0,2,1,sometimes,fishing farming other remittance,no,50,4,NA,NA,NA,NA,NA,3,2,1,74,3,3,1,NA,0,0.7,3,0,0,NA
+177,2026,1,2,2,0,0,6,9,619.8596582,1,3,0,never,fishing informal_ea tourism gleaning,friends_family,50,1,3,NA,NA,2,NA,NA,NA,NA,36,2,6,0,NA,1,0.8,3,3,2.25,0.12
+178,2026,0,1,0,0,0,5,6,308.1387088,0,3,1,never,fishing marketing_mp informal_ea tourism gleaning,banks_institutions,300,1,4,3,NA,2,5,NA,NA,NA,57,1,1,1,NA,1,0.9,4.166666667,3,3.666666667,0.208955224
+179,2026,4,0,0,4,1,6,4,337.709848,0,6,3,sometimes,fishing informal_ea tourism marketing_mp gleaning remittance,local_store friends_family,20,1,2,3,NA,4,5,NA,6,NA,50,2,7,0,NA,2,0.8,3,0,1.5,0.166666667
+180,2026,1,3,57,1,1,5,5,215.1528709,0,5,2,sometimes,fishing gleaning marketing_mp informal_ea tourism farming,friends_family,150,1,NA,4,NA,3,2,5,NA,NA,47,1,4,1,NA,1,0.9,4.166666667,2,2.5,0.333333333
+181,2026,2,8,285,1,0.5,5,8,666.7251439,1,4,2,sometimes,informal_ea tourism gleaning fishing farming remittance,friends_family,200,2,3,NA,NA,1,4,5,6,NA,56,1,6,0,NA,1,0.9,4.166666667,2,2,0.181818182
+182,2026,4,4,386,0,0,6,5,1001.390131,4,2,1,sometimes,fishing marketing_mp informal_ea tourism gleaning farming remittance,friends_family,150,1,7,4,NA,5,2,3,6,NA,51,1,7,0,NA,1,0.9,4.166666667,6,3.166666667,0.245901639
+183,2026,1,14,62,0,0,7,5,529.0375796,1,3,3,sometimes,fishing marketing_mp gleaning informal_ea tourism atoll_farming remittance,friends_family,250,2,5,3,NA,1,4,NA,7,NA,48,2,6,0,6,1,0.8,4.166666667,2,2.5,0.16
+184,2026,3,0,0,2,0.666666667,5,3,42.00626261,1,5,0,never,tourism farming fishing gleaning,friends_family,50,1,4,NA,NA,NA,1,3,NA,NA,37,2,7,0,NA,1,0.8,3.5,0,2.166666667,0
+185,2026,1,0,0,0,0,6,8,506.1287565,1,1,0,sometimes,informal_ea remittance,friends_family,50,NA,NA,NA,NA,1,NA,NA,2,NA,68,NA,4,1,NA,1,NA,0,NA,0,NA
+186,2026,2,0,0,0,0,5,6,289.755925,2,6,2,sometimes,fishing marketing_mp tourism remittance informal_ea atoll_farming,friends_family,150,3,NA,1,NA,2,4,NA,6,NA,58,2,4,1,5,1,0.8,4.333333333,3,1.933333333,0.112149533
+187,2026,3,2,22,0,0,3,4,186.6333809,3,4,0,often,informal_ea tourism remittance farming,friends_family,100,NA,NA,NA,NA,1,2,3,4,NA,51,NA,2,1,NA,1,NA,0,NA,0,NA
+188,2026,1,0,0,0,0,13,2,733.0793819,1,2,0,sometimes,remittance,no,0,NA,NA,NA,NA,NA,NA,NA,1,NA,81,NA,4,0,NA,0,NA,0,NA,0,NA
+189,2026,2,0,0,1,0.5,3,5,349.15634,1,2,1,sometimes,fishing gleaning marketing_mp informal_ea atoll_farming remittance,friends_family local_store,150,1,3,2,NA,5,NA,NA,4,NA,57,2,7,0,6,2,0.8,3.833333333,2,1.5,0
+190,2026,1,1,0,0,0,3,3,32.12588747,1,5,1,often,informal_ea tourism remittance,no,50,NA,NA,NA,NA,3,2,NA,1,NA,43,NA,5,1,NA,0,NA,0,NA,0,NA
+191,2026,0,1,0,0,0,10,9,821.0413954,0,3,3,sometimes,fishing gleaning informal_ea tourism remittance marketing_mp farming,friends_family,150,1,1,1,NA,2,3,4,5,NA,40,2,6,1,NA,1,0.8,3.5,3,2.25,0.12
+192,2026,0,0,0,0,0,4,4,58.84235096,0,2,1,often,fishing informal_ea remittance marketing_mp,no,120,1,NA,2,NA,4,NA,NA,3,NA,49,2,8,1,NA,0,0.8,3.5,3,3,0.285714286
+193,2026,0,0,0,0,0,4,1,36.16630933,0,1,1,sometimes,tourism informal_ea fishing gleaning remittance atoll_farming,group_cooperative,20,3,2,NA,NA,2,1,NA,3,NA,56,2,0,1,4,1,0.8,2,0,1,0
+194,2026,3,4,230,0,0,6,7,754.9898248,3,4,1,sometimes,fishing gleaning tourism informal_ea remittance,friends_family local_store,60,1,4,NA,NA,5,2,NA,3,NA,71,5,3,0,NA,2,0.5,3.5,0,1.5,0
+195,2026,0,0,0,0,0,5,6,260.3311777,0,1,3,never,fishing marketing_mp,no,30,1,NA,2,NA,NA,NA,NA,NA,NA,45,2,6,0,NA,0,0.8,3.833333333,0,1.75,0.128205128
+196,2026,4,1,49,3,0.75,0,6,0,1,2,1,sometimes,fishing gleaning tourism marketing_mp,local_store friends_family,50,1,2,3,NA,NA,4,NA,NA,NA,39,3,1,1,NA,2,0.7,0,2,2.166666667,0
+197,2026,0,0,0,0,0,5,5,681.1363442,0,1,0,sometimes,remittance,no,0,NA,NA,NA,NA,NA,NA,NA,1,NA,73,NA,6,0,NA,0,NA,0,NA,0,NA
+198,2026,5,4,283,1,0.2,8,1,160.8903671,4,2,2,sometimes,salaried_employment fishing gleaning informal_ea tourism atoll_farming remittance,friends_family banks_institutions,700,2,7,NA,1,3,4,NA,8,NA,50,10,3,NA,5,2,0,3.833333333,3,5,0.518518519
+199,2026,4,1,47,2,0.5,7,6,540.4825632,2,6,1,sometimes,fishing marketing_mp informal_ea tourism salaried_employment gleaning remittance,friends_family local_store,150,2,6,3,4,1,5,NA,7,NA,50,2,3,1,NA,2,0.8,3.833333333,2,5,0.606060606
+200,2026,0,0,0,0,0,7,1,81.43968254,0,4,3,often,informal_ea fishing gleaning tourism remittance,local_store,500,2,2,NA,NA,1,3,NA,4,NA,84,2,2,1,NA,1,0.8,2,0,1.75,0.06
+201,2026,0,0,0,0,0,5,1,59.54623836,0,2,0,sometimes,tourism remittance fishing,no,300,2,NA,NA,NA,NA,1,NA,3,NA,55,2,6,1,NA,0,0.8,3.166666667,3,0,NA
+202,2026,0,0,0,0,0,6,1,43.87235265,0,1,0,often,remittance,no,50,NA,NA,NA,NA,NA,NA,NA,1,NA,76,NA,0,1,NA,0,NA,0,NA,0,NA
+203,2026,5,4,116,2,0.4,9,5,363.4914701,3,4,4,sometimes,fishing tourism gleaning remittance,friends_family,100,1,2,NA,NA,NA,3,NA,4,NA,55,5,5,1,NA,1,0.5,3,1,1.5,0
+204,2026,0,0,0,0,0,4,6,320.3039183,0,5,0,never,fishing gleaning marketing_mp tourism informal_ea,friends_family,20,3,5,4,NA,1,2,NA,NA,NA,62,2,15,1,NA,1,0.8,4.333333333,0,0,NA
+205,2026,1,0,0,0,0,6,3,153.4796699,1,2,1,sometimes,fishing gleaning tourism remittance informal_ea,no,150,2,3,NA,NA,1,4,NA,5,NA,72,5,5,1,NA,0,0.5,2,0,1.5,0
+206,2026,0,0,0,0,0,8,1,4.078151261,0,2,0,NA,marketing_mp tourism informal_ea,no,50,NA,NA,2,NA,1,3,NA,NA,NA,74,NA,5,1,NA,0,NA,0,NA,0,NA
+207,2026,7,3,117,4,0.571428571,6,4,453.516535,3,4,0,sometimes,remittance fishing gleaning informal_ea,friends_family local_store,75,1,4,NA,NA,2,NA,NA,3,NA,67,3,5,0,NA,2,0.7,0,2,3,0.145985401
+208,2026,3,1,12,0,0,7,6,421.1800172,3,3,5,often,fishing informal_ea marketing_mp gleaning tourism remittance,friends_family local_store,550,4,5,2,NA,1,3,NA,6,NA,38,2,9,0,NA,2,0.8,4.333333333,3,2.833333333,0.272727273
+209,2026,2,2,141,0,0,4,3,179.3660385,2,2,3,sometimes,fishing marketing_mp other informal_ea gleaning tourism remittance farming,friends_family local_store,60,1,5,1,NA,3,6,7,4,2,58,1,0,0,NA,2,0.9,4.166666667,3,2.7,0.256410256
+210,2026,0,0,0,0,0,8,3,128.3316578,0,2,3,sometimes,informal_ea fishing gleaning remittance,no,50,2,3,NA,NA,1,NA,NA,4,NA,NA,5,3,NA,NA,0,0.5,3,2,2.25,0.12
+211,2026,0,0,0,0,0,4,2,50.49938935,0,2,4,often,tourism marketing_mp farming fishing gleaning remittance informal_ea,no,200,1,6,5,NA,4,2,3,7,NA,64,1,4,0,NA,0,0.9,3.166666667,0,1.5,0
+212,2026,0,0,0,0,0,9,3,330.2787343,0,1,0,often,fishing marketing_mp remittance,no,10,1,NA,2,NA,NA,NA,NA,3,NA,55,5,7,1,NA,0,0.5,4.333333333,3,3.366666667,0.245901639
+213,2026,2,1,0,1,0.5,7,5,603.3299933,1,2,3,sometimes,informal_ea gleaning tourism remittance marketing_mp fishing,friends_family,200,3,4,6,NA,1,2,NA,5,NA,35,5,5,0,NA,1,0.5,4.333333333,0,1,0
+214,2026,0,0,0,0,0,2,0,0,0,3,8,often,remittance tourism gleaning fishing,no,100,4,3,NA,NA,NA,2,NA,1,NA,63,10,0,0,NA,0,0,0,0,1,0
+215,2026,1,0,0,0,0,3,0,0,1,1,0,sometimes,other remittance,friends_family,300,NA,NA,NA,NA,NA,NA,NA,2,1,66,NA,3,1,NA,1,NA,0,NA,0,NA
+216,2026,0,0,0,0,0,9,0,0,0,1,0,never,informal_ea,no,100,NA,NA,NA,NA,1,NA,NA,NA,NA,71,NA,9,1,NA,0,NA,0,NA,0,NA
