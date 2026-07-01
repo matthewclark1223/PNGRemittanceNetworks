@@ -7,17 +7,18 @@ Data and code repository for "Remittance Networks Shape Intensification of Small
 
 - **final_df.csv**: Final household-level dataset including household characteristics, network metrics, and fishing commercialization indices.
 
-- **Combine_2018_2026_ Data.R**: Code to clean and combine household data across years *not executable
-
-- **SummarizeNetworkData.R**: Code to construct social networks (financial and fish flows) and compute centrality measures (indegree, outdegree, betweenness, and external ties).
-
-- **FishingCommercializationIndex.R**: Code to compute fishing commercialization indices, including market orientation, capital access, gear sophistication, and pelagic fishing focus.
-
-- **DAGS.R**:  Code for making DAG figures. Also includes 'daggity' style code for use on https://www.dagitty.net/
-
 - **DescriptiveStatsOutcomes.R**: Code to generates descriptive statistics and visualizations to characterize changes in household outcomes, fishing commercialization, network structure, and livelihood strategies between 2018 and 2026.
 
 - **StatisticalAnalysis.R**: Code to estimate the relationship between remittance network structure and fishing commercialization outcomes using Bayesian panel models.
+
+- **Combine_2018_2026_ Data.R**: Code to clean and combine household data across years. *not executable
+
+- **SummarizeNetworkData.R**: Code to construct social networks (financial and fish flows) and compute centrality measures (indegree, outdegree, betweenness, and external ties). *not executable
+
+- **FishingCommercializationIndex.R**: Code to compute fishing commercialization indices, including market orientation, capital access, gear sophistication, and pelagic fishing focus. *not executable
+
+- **DAGS.R**:  Code for making DAG figures. Also includes 'daggity' style code for use on https://www.dagitty.net/
+
 
 ## Prerequisites
 - R ≥ 4.6
@@ -32,7 +33,7 @@ install.packages(setdiff(packages, rownames(installed.packages())))Show more lin
 
 ## Reproducibility
 
-The dataset provided in this repository is the final cleaned and processed dataset used for analysis. Raw data and intermediate processing files are not included for confidentiality reasons. 
+The dataset provided in this repository is the final cleaned and processed household-level dataset used for analysis. Raw data containing individual-level information and intermediate processing files are not included for confidentiality reasons. 
  
 The Combine_2018_2026_ Data.R, FishingCommercializationIndex.R and SummarizeNetworkData.R scripts are provided for transparency and documentation purposes only and are not expected to be fully reproducible using the files included in this repository.
  
