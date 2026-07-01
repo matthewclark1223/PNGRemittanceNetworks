@@ -32,7 +32,11 @@ install.packages(setdiff(packages, rownames(installed.packages())))Show more lin
 
 ## Reproducibility
 
-The dataset provided in this repository is the final cleaned and processed dataset used for analysis. Raw data and intermediate processing files are not included for confidentiality reasons. The scripts are provided for transparency and documentation purposes only and are not expected to be fully reproducible using the files included in this repository.
+The dataset provided in this repository is the final cleaned and processed dataset used for analysis. Raw data and intermediate processing files are not included for confidentiality reasons. 
+ 
+The Combine_2018_2026_ Data.R, FishingCommercializationIndex.R and SummarizeNetworkData.R scripts are provided for transparency and documentation purposes only and are not expected to be fully reproducible using the files included in this repository.
+ 
+The statistical analysis scripts (StatisticalAnalysis.R and DescriptiveStatsOutcomes.R) will run with the provided dataset.
 
 
 # Citation
