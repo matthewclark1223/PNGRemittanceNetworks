@@ -1,5 +1,5 @@
 # Remittance Networks, Fishing Commercialization, and Household Panel Analysis
-Data and code repository for "Remittance Networks Fuel Commercialization of Subsistence Livelihoods"
+Data and code repository for "Remittance Networks Fuel Commercialization of Subsistence Fisheries"
 <br>
 (\*title subject to change)
 
